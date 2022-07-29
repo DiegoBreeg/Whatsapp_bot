@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp_bot",
+  "version": "1.0.0",
+  "description": "atendente virutal para whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoBreeg/Whatsapp_bot.git"
+  },
+  "author": "d.breeg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoBreeg/Whatsapp_bot/issues"
+  },
+  "homepage": "https://github.com/DiegoBreeg/Whatsapp_bot#readme"
+}
