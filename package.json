@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DiegoBreeg/Whatsapp_bot/issues"
   },
-  "homepage": "https://github.com/DiegoBreeg/Whatsapp_bot#readme"
+  "homepage": "https://github.com/DiegoBreeg/Whatsapp_bot#readme",
+  "dependencies": {
+    "venom-bot": "^4.2.0"
+  }
 }
